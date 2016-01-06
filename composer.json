@@ -1,0 +1,14 @@
+{
+  "name": "drupal/add_css",
+  "type": "drupal-module",
+  "description": "Adding css through this module.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/add_css",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/add_css",
+    "source": "http://cgit.drupalcode.org/add_css"
+  },
+  "require": { }
+}
